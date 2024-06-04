@@ -1,0 +1,13 @@
+li {
+    float: left;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
