@@ -1,5 +1,7 @@
 package org.webapp.webapp;
 
+import org.webapp.models.Product;
+
 import java.io.*;
 import javax.servlet.http.*;
 import javax.servlet.annotation.*;

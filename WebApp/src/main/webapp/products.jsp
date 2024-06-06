@@ -12,25 +12,12 @@
 </head>
 <body>
     <jsp:include page="navbar.jsp"/>
+    <a href="product-servlet">Get product list</a>
 
-    <%
-        String product = "Soap";
-    %>
+    <br>
+    <br>
+    <br>
 
-    <table>
-
-        <tr>
-            <th>Id</th>
-            <th>Name</th>
-            <th>Price</th>
-        </tr>
-
-        <tr>
-
-            <td><%%></td>
-
-        </tr>
-
-    </table>
+    <jsp:include page="addProduct.jsp"/>
 </body>
 </html>
